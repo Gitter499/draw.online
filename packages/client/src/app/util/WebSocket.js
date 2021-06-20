@@ -1,1 +1,1 @@
-export const ws = new WebSocket("ws://drawonline-1.rafayelgaming.repl.co");
+export const ws = new WebSocket("wss://drawonline-1.rafayelgaming.repl.co");
